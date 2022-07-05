@@ -46,8 +46,6 @@
     </li>
     </li>
     <li><a href="#contactos">Contactos</a></li>
-    <li><a href="#recomendaciones">Recomendaciones</a></li>
-    <li><a href="#agradecimientos">Agradecimientos</a></li>
   </ol>
 </details>
 
